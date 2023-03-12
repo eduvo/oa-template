@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails 6 template.
 
-Things you may want to cover:
+## Develop
 
-* Ruby version
+``` shell
+git clone https://github.com/goofansu/oa-template.git
+cd oa-template
+bundle install
+rails db:create
+```
 
-* System dependencies
+## Test
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+``` shell
+rspec
+```
