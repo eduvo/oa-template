@@ -2,6 +2,9 @@
 
 Rails 6 template.
 
+## Problem
+See problem [here](./PROBLEM.md).
+
 ## Develop
 
 ``` shell
