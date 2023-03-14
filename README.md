@@ -20,4 +20,4 @@ This repo is a basic template for interviewing.
 
 4. Solve the [problem](./PROBLEM.md).
 
-5. Ensure we can access your GitHub repo.
+5. Ensure we can access your repository.
